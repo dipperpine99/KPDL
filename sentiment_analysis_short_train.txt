@@ -1,0 +1,100 @@
+__label__tot Good ratio price/service. Good advices for the national park and village . Tốt
+__label__trung_binh Trang thiết bị vệ sinh hơi cũ. Vệ sinh sạch sẽ, nhân viên thân thiện, địa điểm tốt..  Một khách sạn sạch sẽ, thoải mái, dễ chịu, địa điểm tốt.
+__label__xuat_sac Friendly staff. Helpful for booking tours. Room was clean and quiet. . Perfect location for Ke Bang national park caves
+__label__kem Quá ồn ào . Thất vọng
+__label__tot Nice place to be to get around Staff really takes care of you . perfect stay, super staff
+__label__xuat_sac - Good rooms / beds - Very nice and helpful staff - Great view - Friendly atmosphere . A lovely place to stay
+__label__tot Hardest bed Ive slept on Breakfast value helpful staff . Good Value
+__label__xuat_sac Very nice place! Very friendly family! . Very nice stay
+__label__xuat_sac Todco perfacto . Muy bien hemos estado dos dias y ha sido todo perfecto.Nos han ayudado en todo lo que hemos necesita
+__label__xuat_sac Bãi biển đẹp . Một kì nghỉ thoải mái
+__label__kem ăn sáng quá đông, phải chờ đợi, lộn sộn, bãi biển . Thất vọng
+__label__tot Really friendly and lovely staff The dorm beds were super comfortable! . Tuyệt vời
+__label__trung_binh 出入不方便 位置偏僻.  Dễ chịu
+__label__xuat_sac Bel resort, spiaggia pulitissima, bella piscina. Tranquillo . Ottimo per un paio di giorni di riposo
+__label__tot location, price, receptionist help, clean room,... . Clean hotel with new interior and very frendly and helpfull stuff.
+__label__tot - good tour to the caves . Rất tốt
+__label__tot no WIFI in the dorms! . Tốt
+__label__xuat_sac tres bon rapport qualité prix, dortoir très confortable et propre . Nuit en transit
+__label__tot Hiss saknades Den familjära stämningen hos personalen och gäster . Tốt
+__label__tot - großes Zimmer - freundliche Mitarbeiter - annehmbares Frühstück - SUPER Tour zur Paradies und Dark Cave . Tốt
+__label__xuat_sac Einfach alles , weil alles zusammen passt . Bin 2x im Jahr dort . Xuất sắc
+__label__tot Nao respondem a emails A equipe êh muito prestativa, rapidamente me acomodaram e agendamento passeio. . Tuyệt vời
+__label__xuat_sac Lift, freundliches Personal, neues Haus, alles wie beschrieben! . Xuất sắc
+__label__tot Peronalen . Rất tốt
+__label__kem Mình đặt fòng qua booking nhưng khi đến thì KS bảo do đặt sớm nên miss thông tin đặt fòng của mình nên fải sắp xếp ở fòng dự fòng. Fòng ồn ào, cách âm k tốt. Tủ thì 1 bên bị khóa vì để quần áo của e lễ tân. Xe máy để thuê thì cũ, chất lượng kém, tốn xăng vo cùng. Service cũng tốt lắm . Kém
+__label__tot Clean large room with a fridge and kettle. . Tốt
+__label__tot Perfect place to explore waterfront of town. Lovely staff and always very helpful. Bk for $2 each. . Great place to stay
+__label__xuat_sac Friendly staff Spacious rooms Location Value for money . excellent place to stay
+__label__rat_kem Tôi đặt phòng qua booking và được báo giá nhưng khi trả phòng hanoiHotel thủ thêm tiền trả chỗ booking , dịch vụ giặt đồ lại tính từng cái mà không tính Kg nên quá mắc , wifi tại phòng không đứng được , taxi Thành Đô là mối của HanoiHotel gọi giá cao hơn nhiều với hàng khác... . Chỉ một lần qua
+__label__xuat_sac hotel clean, helpful. . Xuất sắc
+__label__kem Khách sạn bẩn, ga đệm hôi. Phòng tắm tồi tàn . Kém
+__label__xuat_sac Very good hostel! Nice atmosphere, staff is super friendly . Xuất sắc
+__label__tot friendly staff & clean room . Tuyệt vời
+__label__tot A bit noisy in the morning (theres a school very close) Staff, location, laudry . Good hotel
+__label__tot Tvrdé postele Velmi milý personál . Tốt
+__label__kem Just one word : unacceptable! . Kém
+__label__trung_binh Le personnel ne parle pas un mot danglais, impossible déchanger..  Chấp nhận được
+__label__tot Bei Hilfe mit Transport innerhalb der stadt Insgesamt durchschnittlich . Tốt
+__label__xuat_sac Super Familienbetrieb - tolle Lage, tolle Ausstattung und super Service . Xuất sắc
+__label__xuat_sac Zimmer sent gross und gute Aussicht con denoberenStockwerken. . Xuất sắc
+__label__tot Nuevo, impecable, cómodo... Dong Hoi es un remanso de calma . Estupenda etapa del viaje
+__label__tot Les services . Tốt
+__label__xuat_sac Le personnel genial, disponible, amusant, accueillant, toujours souriant... vraiment un bon sejour . Xuất sắc
+__label__trung_binh Devoir allumé leau chaude dans le couloir, repas non recommandé pas bon, chambre très très humide Personnel sympathique et disponible..  Chấp nhận được
+__label__xuat_sac Views, facilities, breakfast . Very comfortable hotel in a beautiful setting
+__label__xuat_sac Swimming pool is extremely cold. Excellent service & location . Sunny Mountain Hotel
+__label__tot Khach san sach se . Tốt
+__label__tot Buena ubicacion. Bonita terraza en restaurante. Habitacion amplia y confortable . Tốt
+__label__xuat_sac Excellent facilities in the room. Great breakfast. . Hidden gem in Sapa
+__label__tot Paisagem magnífica; quarto muito cómodo e com excelente vista; staff muito simpático e prestável . Tốt
+__label__xuat_sac Big room, very nice views from all the rooms, staff excelent. . Xuất sắc
+__label__tot Staff Location Breakfast Bedroom Views . Great staff and location
+__label__xuat_sac Very friendly and helpfull personel. Close to the center . Tuyệt hảo
+__label__tot The weather! The view, the peace and quiet, the good room and the helpful owner and staff . Very friendly and helpful
+__label__xuat_sac central location . Xuất sắc
+__label__xuat_sac Near to center but quiet zone. . Perfect!
+__label__tot Ăn sáng hơi chán, ít món mặc dù nhiều khách Gần chợ Sapa, phòng thoáng, sạch, nhân viên phục vụ thân thiện, nhiệt tình. . Khá hài lòng!
+__label__trung_binh Thuê xe đi du lịch phòng yên tĩnh.  Tàm tạm
+__label__kem Smutsig, frukost, m.m Personal . Thất vọng
+__label__trung_binh The staff Location, view.  Dễ chịu
+__label__xuat_sac Such friendly staff, great location and heater in room. . Great sapa stay
+__label__tot Friendly, professional staff, very helpfull . Rất tốt
+__label__tot Desayunar de buffet) en la terraza mirando al valle. Personal muy atento . Rất tốt
+__label__tot Nice room with balcony and view over the mountains. Bed with heating system! Good wifi. . Beautiful view!
+__label__tot Breakfast could have been better. Comfortable hotel, pleasant staff, good location. . Friendly staff, comfortable hotel.
+__label__xuat_sac This hotel is very good! The staff is very nice, they will help you to arrange day trips, and the accomodations are very cosy! . Cosy hotel and nice staff
+__label__xuat_sac The best view ever . Great for values , great location very quiet at night
+__label__trung_binh They charged 3 percent extra when I paid by visa. On Bookings it said we can pay by visa did not mention and fee!.  Chấp nhận được
+__label__xuat_sac Easy going with accommodating staff. . Relaxed
+__label__xuat_sac Nice and helpful staffs . Tuyệt hảo
+__label__trung_binh Food a bit average.  Dễ chịu
+__label__tot The staff didnt speak english . Tuyệt vời
+__label__xuat_sac The friendliness of the staff Early room check-in (no charge) Location . Xuất sắc
+__label__tot WiFi สัญญาณไม่ค่อยดี พนักงานและบรรยายกาศโรงแรม . พนักงานเยี่ยมมากครับ
+__label__xuat_sac Friendly staff.....room and balcony view . Super stay in wonderful place
+__label__xuat_sac Bon hôtel, bien situé, bon petit déjeuner, personnel avenant . Xuất sắc
+__label__tot Towels that are not well dried issued probably due to the extended misty weather. All the friendly and helpful staff. . Rất tốt
+__label__xuat_sac Great value for your money . Xuất sắc
+__label__xuat_sac friendly staff, nice rooms with mountain view. . Xuất sắc
+__label__tot Geen bijzonderheden Uitzicht fantastisch. Ontbijt prima. . Tốt
+__label__tot The staffs are very helpful. . Staff
+__label__tot Colazione Posizione, staff . Splendido panorama
+__label__tot La posizione centrale, splendida vista sulle montagne, l arredamento delle camere . Albergo carino con posizione ottima
+__label__xuat_sac Wonderful staff, wonderful views, magnificent town . Tuyệt hảo
+__label__tot Nicce friendly & helpful staff. . Centrally located
+__label__xuat_sac breakfast unimaginative clean well designed, quite nice dinnig room . excellent place, well worth the little extra above cheaper hotels
+__label__xuat_sac nice rooms, great and very helpful staff, great and quiet location . Xuất sắc
+__label__tot Sehr hilfsbereites und freundliches Personal. Gutes Fruehstueck und guter Service fuer die Touren. . Tuyệt vời
+__label__xuat_sac tout,le confort,les prestations,la gentillesse du personnel. . Xuất sắc
+__label__tot Laundry was bad. . Tốt
+__label__trung_binh Fruehstueck eher mager,kein Buffet Zimmer relativ gross, schoen eingerichtet und sauber.  Dễ chịu
+__label__xuat_sac überaus nettes Personal, tolles Frühstück . Tuyệt hảo
+__label__tot Great location and fabulous service . Rất tốt
+__label__xuat_sac tout etait parfait , . Xuất sắc
+__label__xuat_sac Friendly staff Early check-in Good breakfast . Lovely stay
+__label__trung_binh יקר מאוד ביחס לתמורה אין אוירה טובה במלון.  Chấp nhận được
+__label__tot Ci hanno lasciato la camera allultimo piano, molto ampia con un piccolo balcone. Ottima posizione. . Tốt
+__label__tot breakfast Staff are excellent, very helpful with advice about what to see and how to get there. . Tuyệt vời
+__label__xuat_sac Miejsce parkingowe dla motorkow bardzo stromy podjazd i zjazd Restaruacja na miejscu mily personel . przepiekne widoki z okna
+__label__xuat_sac Die Lage, die Umgebung.. Einfach alles . Toller Ort
